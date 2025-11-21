@@ -17,8 +17,10 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="550" height="416" alt="image" src="https://github.com/user-attachments/assets/fb8c952f-c4e7-4c7d-a313-6b07db47def8" />
 
 ## TABULATION:
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/9ecd238d-89a1-450d-9358-3f206610e2ef" />
 
 ## GRAPH:
+<img width="842" height="973" alt="image" src="https://github.com/user-attachments/assets/b0b52f89-18b1-4b6a-b610-b6352dd496c6" />
 
 ## DESIGN:
 1. Select the desire value of Vut & Vlt with same magnitude & opposite polarity.
@@ -44,3 +46,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
+Thus, the Schmitt trigger circuit using Op-amp IC 741 is designed.
